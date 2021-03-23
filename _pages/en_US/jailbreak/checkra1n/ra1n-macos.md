@@ -17,4 +17,4 @@ Your iOS device should reboot. Do not open the checkra1n app until you have ran 
 1. Download and open the latest version of [Betelguese](https://github.com/23Aaron/Betelguese)
 1. Hit "Install Odysseyra1n" and wait for it to finish
 
-{% include_relative include/end-of-page.md %}
+{% include_relative include/end-of-page-macos.md %}
